@@ -1,4 +1,4 @@
-# VS Code keybindings for working on Windows using the key mapping for a Mac OS.
+# VS Code keybindings for working on Windows using the Mac OS key mapping.
 
 1- Type `shift+ctrl+p` in your Windows VSCODE and select `Preferences: Open Keyboard Shortcuts (JSON)`
 
